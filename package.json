@@ -1,0 +1,19 @@
+{
+  "name": "js_challenges",
+  "version": "0.0.1",
+  "description": "A series of simple challenges solved with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --watch"
+  },
+  "keywords": [
+    "JavaScript",
+    "Challenges",
+    "Solutions"
+  ],
+  "author": "Vincent Ramdhanie",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.5.3"
+  }
+}
