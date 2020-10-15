@@ -33,6 +33,10 @@ npm test
 
 Find longest sequence of zeros in binary representation of an integer.
 
+### Cyclic Rotation
+
+Rotate an array to the right by a given number of steps.
+
 ## LICENSE
 
 This project is [MIT licensed](LICENSE).

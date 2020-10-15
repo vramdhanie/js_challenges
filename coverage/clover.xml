@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1602687683519" clover="3.2.0">
-  <project timestamp="1602687683519" name="All files">
-    <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="4" elements="18" coveredelements="18" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
-    <file name="binaryGap.js" path="/Users/vincent/Documents/projects/js_challenges/binaryGap.js">
-      <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="4"/>
-      <line num="2" count="7" type="stmt"/>
-      <line num="5" count="41" type="cond" truecount="2" falsecount="0"/>
-      <line num="6" count="41" type="stmt"/>
-      <line num="8" count="15" type="cond" truecount="2" falsecount="0"/>
-      <line num="9" count="9" type="stmt"/>
-      <line num="10" count="9" type="cond" truecount="2" falsecount="0"/>
-      <line num="12" count="15" type="stmt"/>
-      <line num="16" count="1" type="stmt"/>
+<coverage generated="1602774928493" clover="3.2.0">
+  <project timestamp="1602774928493" name="All files">
+    <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1" elements="13" coveredelements="13" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
+    <file name="cyclicRotation.js" path="/Users/vincent/Documents/projects/js_challenges/cyclicRotation.js">
+      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="5" type="stmt"/>
+      <line num="6" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="10" count="3" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
